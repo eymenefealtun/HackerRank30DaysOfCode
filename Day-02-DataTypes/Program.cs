@@ -21,8 +21,8 @@ class Solution
 
         // Print the sum of the double variables on a new line.
         decimal plusDouble = (decimal)(d + userD);
-        Console.WriteLine(String.Format("{0:0.0}", plusDouble)) ;
-        
+        Console.WriteLine(String.Format("{0:0.0}", plusDouble));
+
         // Concatenate and print the String variables on a new line
         Console.WriteLine(s + userS);
 

@@ -15,10 +15,10 @@ class Result
     public static void solve(double meal_cost, int tip_percent, int tax_percent)
     {
         double tipAmount = meal_cost * Convert.ToDouble(tip_percent) / 100;
-        double taxAmount = meal_cost * Convert.ToDouble(tax_percent) / 100;         
+        double taxAmount = meal_cost * Convert.ToDouble(tax_percent) / 100;
 
 
-        Console.WriteLine(Math.Round(meal_cost+tipAmount+taxAmount));
+        Console.WriteLine(Math.Round(meal_cost + tipAmount + taxAmount));
 
     }
 
