@@ -7,7 +7,7 @@
     <ProjectGuid>{A4CA2266-9FC2-4619-9FB9-A61DF5D32F97}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_2nd_Day</RootNamespace>
-    <AssemblyName>2nd-Day</AssemblyName>
+    <AssemblyName>2nd-Day-DataTypes</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
