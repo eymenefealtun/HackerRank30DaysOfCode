@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day-17-Exceptions&StringToI
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day-18-MoreExceptions", "Day-18-MoreExceptions\Day-18-MoreExceptions.csproj", "{9BADC3C1-9FC7-4C34-B283-DD3488EA8583}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day-19-QueuesAndStacks", "Day-19-QueuesAndStacks\Day-19-QueuesAndStacks.csproj", "{DB688A3D-DF26-48EC-A6A6-451F058B932C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{9BADC3C1-9FC7-4C34-B283-DD3488EA8583}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BADC3C1-9FC7-4C34-B283-DD3488EA8583}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BADC3C1-9FC7-4C34-B283-DD3488EA8583}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB688A3D-DF26-48EC-A6A6-451F058B932C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB688A3D-DF26-48EC-A6A6-451F058B932C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB688A3D-DF26-48EC-A6A6-451F058B932C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB688A3D-DF26-48EC-A6A6-451F058B932C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
